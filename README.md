@@ -1,2 +1,2 @@
 # digitalopolis
-JAMstack site with gatsbyJS and netlifyCMS for digitalopolis.co.uk
+JAMstack site with gatsbyJS and netlifyCMS for www.digitalopolis.co.uk
